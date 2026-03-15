@@ -1,4 +1,4 @@
-# CS340 Traceroute Programming Project
+# Traceroute Programming Project
 
 ## Overview
 
